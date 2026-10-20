@@ -2,7 +2,7 @@
  #DAG orquestra 4 etapas #II-ETL = extrair(raw),transformar,validar,publicar # pandas-on-Spark (Parametrização"limpeza"),Spark SQL (regra de negócio),DataFrame API (conferência) #III-TELA: login (CPF + senha)  →  menu do aluno: # Situação da inscrição (deferida / indeferida) ·  Protocolos (abrir carteirinha) ·  Declaração ·  Canvas 
 
 
-[Tela-projeto-execucao](1-portal.png)
-[Tela-projeto-execucao](2-portal.png)
-[Tela-projeto-execucao](3-portal.png)
-[Tela-projeto-execucao](4-portal.png)
+![Tela-projeto-execucao](1-portal.png)
+![Tela-projeto-execucao](2-portal.png)
+![Tela-projeto-execucao](3-portal.png)
+![Tela-projeto-execucao](4-portal.png)
